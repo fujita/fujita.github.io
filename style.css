@@ -1,0 +1,33 @@
+body {
+	font-family: 'Lucida Grande', Geneva, Verdana, Arial, Helvetica, sans-serif;
+}
+
+h1, h2, h3 {
+	font-family: 'Trebuchet MS', Helvetica, Tahoma, Arial, Sans-serif;
+}
+h1 {
+	font-size: 3.1em;	
+	letter-spacing: -2px;
+	padding: 15px 10px 5px 10px;	
+}
+h2 {
+	font-size: 2em;
+	color: #895F30;
+	padding: 20px 10px 5px 10px;	
+}
+
+#header h1#logo-text a {
+	font: bold 40px 'Trebuchet MS', Tahoma, Helvetica, Arial, Sans-serif;
+	letter-spacing: -1.5px;
+	text-decoration: none;
+	text-transform: none;
+	color: #000000;
+}
+#header p#intro {
+	font-family: 'Trebuchet MS', Tahoma, Helvetica, Arial, Sans-serif;
+	font-weight: bold;
+	font-size: 18px;
+	line-height: 1.5em;
+	font-style: normal;
+	text-transform: none;
+}
